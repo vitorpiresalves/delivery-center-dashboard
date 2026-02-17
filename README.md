@@ -14,7 +14,7 @@ Power BI
 
 ## 📊 Visão Geral
 
-![Dashboard Principal](PreviewDashboard_DeliveryCenter.png)
+![Dashboard Principal](1PreviewDashboard_DeliveryCenter.png)
 
 Dashboard apresenta visão consolidada de 368.999 pedidos processados no período, com filtros interativos por mês e métricas operacionais.
 
