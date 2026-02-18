@@ -93,4 +93,5 @@ Delivery Center: Food & Goods orders in Brazil (Kaggle)
 ## 📧 Contato
 
 **Vitor Fernando Pires Alves**  
-vitor.fpiresalves@gmail.com
+- **Email:** vitor.fpiresalves@gmail.com
+- **LinkedIn:** [linkedin.com/in/vitor-pires-alves](https://www.linkedin.com/in/vitor-pires-alves/)
